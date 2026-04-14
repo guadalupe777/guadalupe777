@@ -1,4 +1,10 @@
 ## Hi there 👋
+🎓 M.S. Computer Science student at **Cal State San Bernardino** | Focus: Cybersecurity  
+🔐 CompTIA Security+ in progress · NCL competitor · WiCyS member  
+🖥️ Homelab running Proxmox · Docker · Splunk · Cloudflare Tunnels  
+💻 Currently working with Python, C++, hashcat, and LangChain  
+
+📍 San Bernardino, CA · 🔗 [LinkedIn](linkedin.com/in/melanie-najera777) 
 
 <!--
 **guadalupe777/guadalupe777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
